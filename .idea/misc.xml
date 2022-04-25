@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Data Kuliah/Bersii/app/src/main/res/drawable/bg1.xml" value="0.2" />
+        <entry key="..\:/Data Kuliah/Bersii/app/src/main/res/drawable/bg2.xml" value="0.2265" />
+        <entry key="..\:/Data Kuliah/Bersii/app/src/main/res/drawable/circle.xml" value="0.2265" />
+        <entry key="..\:/Data Kuliah/Bersii/app/src/main/res/drawable/custom_btn.xml" value="0.2265" />
+        <entry key="..\:/Data Kuliah/Bersii/app/src/main/res/drawable/custom_btn2.xml" value="0.2265" />
+        <entry key="..\:/Data Kuliah/Bersii/app/src/main/res/drawable/custom_sign_btn.xml" value="0.2265" />
+        <entry key="..\:/Data Kuliah/Bersii/app/src/main/res/drawable/rectanglestorke.xml" value="0.2265" />
+        <entry key="..\:/Data Kuliah/Bersii/app/src/main/res/drawable/rectanglestroke.xml" value="0.2265" />
+        <entry key="..\:/Data Kuliah/Bersii/app/src/main/res/layout/activity_dashboard.xml" value="0.22871376811594202" />
+        <entry key="..\:/Data Kuliah/Bersii/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Data Kuliah/Bersii/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Data Kuliah/Bersii/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Data Kuliah/Bersii/app/src/main/res/layout/activity_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Data Kuliah/Bersii/app/src/main/res/layout/activity_onboard1.xml" value="0.2" />
+        <entry key="..\:/Data Kuliah/Bersii/app/src/main/res/layout/activity_onboard2.xml" value="0.22871376811594202" />
+        <entry key="..\:/Data Kuliah/Bersii/app/src/main/res/layout/activity_onboard3.xml" value="0.22871376811594202" />
+        <entry key="..\:/Data Kuliah/Bersii/app/src/main/res/layout/activity_onboarding.xml" value="0.1" />
+        <entry key="..\:/Data Kuliah/Bersii/app/src/main/res/layout/activity_registrasi.xml" value="0.4" />
+        <entry key="..\:/Data Kuliah/Bersii/app/src/main/res/layout/activity_welcome.xml" value="0.22192028985507245" />
+        <entry key="..\:/Data Kuliah/Bersii/app/src/main/res/layout/fragment_activity.xml" value="0.30049261083743845" />
+        <entry key="..\:/Data Kuliah/Bersii/app/src/main/res/layout/fragment_activity_list.xml" value="0.264" />
+        <entry key="..\:/Data Kuliah/Bersii/app/src/main/res/layout/fragment_dashboard.xml" value="0.22871376811594202" />
+        <entry key="..\:/Data Kuliah/Bersii/app/src/main/res/layout/fragment_home.xml" value="0.536" />
+        <entry key="..\:/Data Kuliah/Bersii/app/src/main/res/layout/fragment_notifications.xml" value="0.22871376811594202" />
+        <entry key="..\:/Data Kuliah/Bersii/app/src/main/res/layout/fragment_splashonbrd2.xml" value="0.22871376811594202" />
+        <entry key="..\:/Data Kuliah/Bersii/app/src/main/res/layout/hometoolbar.xml" value="0.536" />
+        <entry key="..\:/Data Kuliah/Bersii/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

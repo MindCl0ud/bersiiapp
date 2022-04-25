@@ -1,0 +1,17 @@
+Index: app/src/main/java/com/example/bersii/login.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/java/com/example/bersii/login.kt b/app/src/main/java/com/example/bersii/login.kt
+--- a/app/src/main/java/com/example/bersii/login.kt	(date 1648955425727)
++++ b/app/src/main/java/com/example/bersii/login.kt	(date 1648955425727)
+@@ -18,7 +18,7 @@
+         }
+         val logbtnlog = findViewById<Button>(R.id.loginbtnlogin)
+         logbtnlog.setOnClickListener{
+-            val intent = Intent(this, dashboard::class.java)
++            val intent = Intent(this, home::class.java)
+             startActivity(intent)
+         }
+ 
